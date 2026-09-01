@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Kahugu
-- 📫 This is my site emmanuelkahugu.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I like geohotz
+
